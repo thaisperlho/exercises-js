@@ -1,0 +1,24 @@
+body{
+    background-image: url("../img/971.jpg");
+    background-size: cover;
+
+}
+
+.div *{
+    padding: 5px;
+}
+.container{
+    margin-top: 5%;
+    background-color: rgb(204, 180, 232);
+    border-radius: 20px;
+}
+
+.test{
+    display: flex;
+}
+
+#resultado{
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+}
